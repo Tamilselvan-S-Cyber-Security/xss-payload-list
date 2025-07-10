@@ -1,6 +1,6 @@
 ### 🚀 Cross Site Scripting ( XSS ) Vulnerability Payload List 🚀
 
-<img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg"> <img src="https://img.shields.io/github/stars/payloadbox/xss-payload-list?style=social"> <img src="https://img.shields.io/github/forks/payloadbox/xss-payload-list?style=social"> <img src="https://img.shields.io/github/repo-size/payloadbox/xss-payload-list"> <img src="https://img.shields.io/github/license/payloadbox/xss-payload-list"> <img src="https://img.shields.io/github/issues/detail/author/payloadbox/xss-payload-list/1">
+
 
 ##### Overview : 
 
@@ -26,12 +26,6 @@ An attacker can use XSS to send a malicious script to an unsuspecting user. The 
 #### XSS Payload List :
 
 ```
-<!-- Project Name  : Cross Site Scripting ( XSS ) Vulnerability Payload List -->
-<!--        Author : Ismail Tasdelen -->
-<!--      Linkedin : https://www.linkedin.com/in/ismailtasdelen/ -->
-<!--        GitHub : https://github.com/ismailtasdelen/ -->
-<!--       Twitter : https://twitter.com/ismailtsdln -->
-<!--        Medium : https://medium.com/@ismailtasdelen -->
 
 "-prompt(8)-"
 '-prompt(8)-'
@@ -2766,25 +2760,6 @@ foo<script>alert(1)</script>
 * [XSS Cheat Sheet](https://leanpub.com/xss)
 
 
-### Cloning an Existing Repository ( Clone with HTTPS )
-```
-root@ismailtasdelen:~# git clone https://github.com/ismailtasdelen/xss-payload-list.git
-```
 
-### Cloning an Existing Repository ( Clone with SSH )
-```
-root@ismailtasdelen:~# git clone git@github.com:ismailtasdelen/xss-payload-list.git
-```
 
-### Published Website :
 
-##### Kitploit - https://www.kitploit.com/2018/05/xss-payload-list-cross-site-scripting.html
-
-### Donate!
-
-Support the authors:
-
-#### LiberaPay:
-
-<noscript><a href="https://liberapay.com/ismailtasdelen/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
---end--
